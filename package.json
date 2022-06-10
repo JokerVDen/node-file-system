@@ -4,6 +4,9 @@
   "description": "This repository is the part of nodejs-assignments https://github.com/AlreadyBored/nodejs-assignments",
   "main": "./index.js",
   "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
   "keywords": [
     "nodejs",
     "assignments",
